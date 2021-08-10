@@ -1,8 +1,8 @@
 
-# My Portfolio
+# Conference Capstone Project
 
-> This is a Portfolio setup and mobile version  project by microverse to test the use of Flexbox for Positioning and also images and Background,
-![portfolio](./assets/images/download.jpg)
+> This is a project by microverse to finish the portal module,
+![Capstone Project](./assets/images/download.jpg)
 
 
 ## Built With
@@ -44,3 +44,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+Thanks to Cindy Shin for providing an amazing design  on Behance https://www.behance.net/adagio07 .
